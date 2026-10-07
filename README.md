@@ -23,9 +23,9 @@ records, systems, and processes.
 
 - **Plain HTML, CSS, and JavaScript for the sites.** No frameworks and no build step, so they are
   fast and easy to hand off.
-- **Measured quality.** My portfolio and Sagebrush Sites score 100 in all four Lighthouse
-  categories (performance, accessibility, best practices, SEO). The portfolio also runs
-  automated link, metadata, and Lighthouse checks on every push.
+- **Measured quality.** My portfolio scores 100 in Lighthouse accessibility, best practices, and
+  SEO (97 to 100 in performance), and Sagebrush Sites scores 96 to 100 in all four categories.
+  The portfolio also runs automated link, metadata, and Lighthouse checks on every push.
 - **Accessible and motion-aware.** Keyboard-friendly controls, labeled forms, and animation that
   switches off for visitors who prefer reduced motion.
 - **Privacy-minded.** Second Memory keeps data on the device unless sync is turned on, and the
