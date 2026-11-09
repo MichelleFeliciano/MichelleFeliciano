@@ -4,35 +4,29 @@ Business Computer Information Systems graduate (University of North Texas) based
 Dallas–Fort Worth area. **Open to entry-level roles** in business systems, information
 technology, data, or application support (Texas; on-site, hybrid, or remote).
 
-I like building practical, accessible software and keeping complex records accurate.
-My background combines hands-on web development, IT support, and managing business
-records, systems, and processes.
+This page showcases my coursework in data analysis, databases, and web development.
+Each project below is school work I completed at UNT.
 
 [Portfolio](https://michellefeliciano.github.io/) · [Résumé (PDF)](https://michellefeliciano.github.io/Michelle-Feliciano-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/michelle-felicianowebdev/)
 
-## Featured projects
+## Coursework projects
 
-| Project | What it is | Links |
+| Project | What it is | Code |
 | --- | --- | --- |
-| **Sagebrush Sites** | Mobile-first multi-page site for a Fort Worth web-development studio serving salons and beauty businesses, on a custom domain. Includes four live concept sites and an interactive "try a style" demo. | [Live](https://sagebrushstudiollc.com/) · [Code](https://github.com/MichelleFeliciano/sagebrush-sites) · [Case study](https://sagebrushstudiollc.com/work.html) |
-| **Second Memory** | Local-first personal organizer PWA with undo/redo and optional cross-device sync through a small Python server. | [Live](https://michellefeliciano.github.io/second-memory/) · [Code](https://github.com/MichelleFeliciano/second-memory) · [Case study](https://michellefeliciano.github.io/projects/second-memory.html) |
-| **Business Operations Hub** | Self-hosted business system that follows client work from first inquiry to paid invoice: quotes and client approval, projects, time, invoices, reports, and a client portal. TypeScript, React, and PostgreSQL, with 551 automated tests. Private repository; walkthrough on request. | Private repository |
-| **Portfolio** | Responsive, accessible portfolio with light/dark mode, project mockups, and an experience filter. Plain HTML, CSS, and JavaScript with zero dependencies. | [Live](https://michellefeliciano.github.io/) · [Code](https://github.com/MichelleFeliciano/michellefeliciano.github.io) |
-
-## How I build
-
-- **Plain HTML, CSS, and JavaScript for the sites.** No frameworks and no build step, so they are
-  fast and easy to hand off.
-- **Measured quality.** My portfolio scores 100 in Lighthouse accessibility, best practices, and
-  SEO (97 to 100 in performance), and Sagebrush Sites scores 96 to 100 in all four categories.
-  The portfolio also runs automated link, metadata, and Lighthouse checks on every push.
-- **Accessible and motion-aware.** Keyboard-friendly controls, labeled forms, and animation that
-  switches off for visitors who prefer reduced motion.
-- **Privacy-minded.** Second Memory keeps data on the device unless sync is turned on, and the
-  Business Operations Hub enforces who can see what on the server, with tests for it.
+| **Dynamic NN-Descent** (CSCE 5300) | Python implementation of the Dynamic NN-Descent k-NN graph algorithm from a 2025 IEEE paper, benchmarked against classic NN-Descent on SIFT and synthetic data. Dynamic NN-Descent reached higher recall (0.987 vs. 0.953 on SIFT) with about half the extra memory. | [Repo](https://github.com/MichelleFeliciano/csce5300-nn-descent-project) |
+| **Cuts of Compassion** (BCIS 4720, group project) | Business plan, entity-relationship design, data flow diagrams, wireframes, and ASP.NET pages for a volunteer haircut non-profit. | [Repo](https://github.com/MichelleFeliciano/bcis4720-cuts-of-compassion) |
+| **Salary Growth vs. Cost of Living** (CSCE 5310, group project) | Research proposal and literature review on income versus cost of living across 94 U.S. cities, 2010–2024, with a 1,410-record data set. | [Repo](https://github.com/MichelleFeliciano/csce5310-research-project) |
+| **Data Cleaning and SQL Assignments** (CSCE 5300) | SQL SELECT queries, and pandas cleaning (forward and backward fill) with a matplotlib revenue trend chart. | [Repo](https://github.com/MichelleFeliciano/csce5300-data-assignments) |
+| **Active Learning Notebooks** (CSCE 5300) | Jupyter notebooks on missing values, duplicates, outliers (IQR), standardization, and visualization. | [Repo](https://github.com/MichelleFeliciano/csce5300-active-learning-notebooks) |
+| **ASP.NET Exercises** (BCIS 4720) | C# Web Forms pages for login, update account, and delete account backed by SQL Server. | [Repo](https://github.com/MichelleFeliciano/bcis4720-aspnet-exercises) |
+| **Vice Presidents by Age** (CSCE 5310) | Python (pandas, matplotlib, seaborn) visualizations of vice presidents' age at the start of term. | [Repo](https://github.com/MichelleFeliciano/csce5310-data-visualization) |
+| **Probability Trees** (CSCE 5310) | Two-stage probability trees in Excel and a write-up, with conditional probabilities. | [Repo](https://github.com/MichelleFeliciano/csce5310-probability-trees) |
+| **Section 3.9 Presentation** (CSCE 5310) | Speaking script for a hypothesis-test presentation on a Pew Research survey. | [Repo](https://github.com/MichelleFeliciano/csce5310-section-3-9-presentation) |
 
 ## Skills
 
-- **Languages:** JavaScript, SQL, HTML, CSS (Python and Java at a beginner level)
-- **Tools and systems:** Excel, Salesforce, Tableau, Power BI, Word, PowerPoint, Outlook
-- **Focus areas:** database systems, data analysis and visualization, responsive web design, accessibility, IT support
+- **Languages:** JavaScript, Python, SQL, C#, HTML, CSS
+- **Data analysis:** pandas, NumPy, matplotlib, seaborn, Jupyter and Google Colab; data cleaning, visualization, probability, and hypothesis testing
+- **Databases and web:** SQL Server, ASP.NET Web Forms, entity-relationship and data flow design, wireframing
+- **Tools and systems:** Excel, Salesforce, Tableau, Power BI, Word, PowerPoint, Outlook, Git and GitHub
+- **Focus areas:** database systems, data analysis and visualization, algorithms
