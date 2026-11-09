@@ -20,7 +20,6 @@ Each project below is school work I completed at UNT.
 | **ASP.NET Exercises** (BCIS 4720) | C# Web Forms pages for login, update account, and delete account backed by SQL Server. | [Repo](https://github.com/MichelleFeliciano/bcis4720-aspnet-exercises) |
 | **Vice Presidents by Age** (CSCE 5310) | Python (pandas, matplotlib, seaborn) visualizations of vice presidents' age at the start of term. | [Repo](https://github.com/MichelleFeliciano/csce5310-data-visualization) |
 | **Probability Trees** (CSCE 5310) | Two-stage probability trees in Excel and a write-up, with conditional probabilities. | [Repo](https://github.com/MichelleFeliciano/csce5310-probability-trees) |
-| **Section 3.9 Presentation** (CSCE 5310) | Speaking script for a hypothesis-test presentation on a Pew Research survey. | [Repo](https://github.com/MichelleFeliciano/csce5310-section-3-9-presentation) |
 
 ## Skills
 
